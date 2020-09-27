@@ -11,12 +11,6 @@
 - ⚡ Fun fact: I love Running, Gyming & Eating🤣
 
 
-### Connect with me:
-
-[<img align="left" alt="CCB youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=-cUT9DrmWrs)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AtulChourasia10)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/atul-chourasia-13999417a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOIPyw5q7Tn%2BuyqvjLrEjpg%3D%3D)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/atul_chourasia_01/)
 
 <br />
 
@@ -41,6 +35,14 @@
 <br />
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="CCB youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=-cUT9DrmWrs)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AtulChourasia10)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/atul-chourasia-13999417a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOIPyw5q7Tn%2BuyqvjLrEjpg%3D%3D)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/atul_chourasia_01/)
+
 
 
 
