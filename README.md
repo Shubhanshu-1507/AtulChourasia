@@ -5,11 +5,11 @@
 ## I'm a Student, Developer, and WebDesigner!
 
 - 🔭 I’m currently working on  MERN Stack
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 & I'm in 2nd year of B.tech.
 - 👯 I’m looking for Internship and Startups to work with!
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love Running, Gyming & Coding
-- 🏌️‍ Recent Activity: Coding in Codechef
+- 🏌️‍ Recent Activity: Coding in Codechef 2 star coder
 
 <br />
 <hr/>
