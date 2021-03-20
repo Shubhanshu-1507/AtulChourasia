@@ -7,14 +7,12 @@
 - 🔭 I’m currently working on  MERN Stack
 - 🌱 I’m currently learning everything 🤣 & I'm in 2nd year of B.tech.
 - 👯 I’m looking for Internship and Startups to work with!
-- 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love Running, Gyming & Coding
-- 🏌️‍ Recent Activity: Coding in Codechef 2 star coder
-
+- 🥅 2021 Goals: Contribute to Open Source projects & grab an internship.
+- ⚡ Fun fact: I love Running, Gyming, Coding & designing websites.
+- 🏌️‍ Recent Activity: Coding in Codechef 2 star coder.
 <br />
 <hr/>
 <br/>
-
 
 ### Languages and Tools:
 
