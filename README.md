@@ -34,7 +34,7 @@
   </a>
   
   <a title="Medium" href="https://medium.com/@atulChourasia">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/174/174858.svg?token=exp=1617097965~hmac=c1b65cdc81fac99747101e04da96d152" width="45" height="45"  />
+    <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Medium-512.png" width="45" height="45"  />
   </a>
  
   <a title="LinkedIn" href="https://www.linkedin.com/in/atul-chourasia-13999417a/">
