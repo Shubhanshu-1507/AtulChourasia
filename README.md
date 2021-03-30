@@ -216,9 +216,9 @@ DadaDarbar_Frontend&theme=algolia" />
 </a>
 </p>
 <p align="center">
-  <a href="#">
+  
 [![Source Karma badge for @AtulChourasia](https://sourcekarma-og.vercel.app/api/AtulChourasia/github)](https://sourcekarma.vercel.app/AtulChourasia)
-</a>
+
 </p>
 
 ---
