@@ -42,15 +42,15 @@
   </a>
   
   <a title="Email" href="mailto:atul2002chourasia.com">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1617097795~hmac=d545cdbaf9d4cd021790085f299a350d" width="50" height="50" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50" height="50" />
   </a>
   
   <a title="Instagram" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1617097684~hmac=fb17326c031cbd28a19a16e2a4b5eaa1" width="50" height="50" />
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" width="50" height="50" />
   </a>
   
   <a title="Twitter" href="https://twitter.com/imshravankb">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617098029~hmac=dda6d7f8ccbae7c5ac3f0b4b2a645ccb" width="50" height="50" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50" />
   </a>
 </p>
 
