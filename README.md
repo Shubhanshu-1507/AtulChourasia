@@ -38,7 +38,7 @@
   </a>
  
   <a title="LinkedIn" href="https://www.linkedin.com/in/atul-chourasia-13999417a/">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1617097864~hmac=ced5d1c36ed79be993855fcdf4ec370a" width="50" height="50" />
+    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="50" height="50" />
   </a>
   
   <a title="Email" href="mailto:atul2002chourasia.com">
