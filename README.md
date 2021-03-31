@@ -165,11 +165,6 @@ These are some of the technologies and tools that I work with:
 <a href="https://github.com/AtulChourasia">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulChourasia&theme=algolia#version3" />
 </a>
-<p align="center">
-  <a href="https://sourcekarma.vercel.app/AtulChourasia">
-  <img align="center" src="https://sourcekarma-og.vercel.app/api/AtulChourasia/github" />
-</a>  
-</p>
 
 ---
 
