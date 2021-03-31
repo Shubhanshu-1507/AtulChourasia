@@ -158,12 +158,12 @@ These are some of the technologies and tools that I work with:
 
 #### : My Github Stats
 
-<p align="center">
+<p>
   <a href="https://github.com/AtulChourasia">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulChourasia&show_icons=true&theme=algolia" />
   </a>
 </p>
-<p align="center">
+<p>
 <a href="https://github.com/AtulChourasia">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulChourasia&theme=algolia#version3" />
 </a>
