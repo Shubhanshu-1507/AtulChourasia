@@ -216,9 +216,9 @@ DadaDarbar_Frontend&theme=algolia" />
 </a>
 </p>
 <p align="center">
-  
-[![Source Karma badge for @AtulChourasia](https://sourcekarma-og.vercel.app/api/AtulChourasia/github)](https://sourcekarma.vercel.app/AtulChourasia)
-
+  <a href="https://sourcekarma.vercel.app/AtulChourasia">
+  <img align="center" src="https://sourcekarma-og.vercel.app/api/AtulChourasia/github" />
+</a>  
 </p>
 
 ---
@@ -226,7 +226,7 @@ DadaDarbar_Frontend&theme=algolia" />
 #### : My Thoughts
 
 <p align="center">
-  <img src="assets/Group 6.png" alt="my-personal-project"/>
+  <img src="assets/Group 7.png" alt="my-personal-project"/>
 </p>
 
 ---
