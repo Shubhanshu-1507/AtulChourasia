@@ -23,6 +23,8 @@
 - 📫 How to reach me: atul2002chourasia@gmail.com
 - 🏌️‍ Recent Activity: Coding in Codechef 2 star coder.
 
+<br>
+
 <p align="center">
 
   <a title="Portfolio" href="https://atulchourasia.github.io/MyPortfolio/">
