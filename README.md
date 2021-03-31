@@ -165,24 +165,20 @@ console.log(`Feel free to contribute`);
 <span>
 <p align="center">
   <a href="https://github.com/AtulChourasia/Elena-Joy-Photography">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-Elena-Joy-Photography&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=Elena-Joy-Photography&theme=algolia" />
   </a>
 
  <a href="https://github.com/AtulChourasia/MyPortfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-MyPortfolio &theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=MyPortfolio &theme=algolia" />
   </a>
 </p>
 </span>
 <span>
 <p align="center">
 <a href="https://github.com/AtulChourasia/Travelly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-Travelly&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=Travelly&theme=algolia" />
 <a href="https://github.com/AtulChourasia/Easy-Banking">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-Easy-Banking&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=Easy-Banking&theme=algolia" />
 
 </p>
 </span>
@@ -190,11 +186,9 @@ Easy-Banking&theme=algolia" />
 <span>
 <p align="center">
 <a href="https://github.com/AtulChourasia/c_programs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-c_programs&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=c_programs&theme=algolia" />
 <a href="https://github.com/AtulChourasia/DadaDarbar_Frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=
-DadaDarbar_Frontend&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulChourasia&repo=DadaDarbar_Frontend&theme=algolia" />
   
 </p>
 </span>
