@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/Group 4.png" alt="Banner"/>
+  <img src="assets/Group 14.png" alt="Banner"/>
 </p>
 
 <br>
