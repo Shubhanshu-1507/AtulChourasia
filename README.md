@@ -24,7 +24,56 @@
 
 <br>
 
+<p align="center">
 
+  <a title="Portfolio" href="https://atulchourasia.github.io/MyPortfolio/">
+    <img src="assets/Group 1.png" width="50" height="50" />
+  </a>
+  
+  <a title="DEV.to" href="https://dev.to/atulchourasia">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Medium" href="https://medium.com/@atulChourasia">
+    <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Medium-512.png" width="45" height="45"  />
+  </a>
+ 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/atul-chourasia-13999417a/">
+    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Email" href="mailto:atul2002chourasia.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Instagram" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Twitter" href="https://twitter.com/imshravankb">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/AtulChourasia" target="_blank">
+    <img src="https://img.shields.io/github/followers/AtulChourasia?label=Follow%20Me&style=social"/>
+  </a>
+
+  <a href="https://twitter.com/AtulChourasia10" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/AtulChourasia10?style=social"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/atul-chourasia-13999417a/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/Atul-Chourasia"/>
+  </a>
+</p>
+
+<p align="center"> <img src="https://gpvc.arturio.dev/AtulChourasia" alt="profile-views"> </p>
+
+<br>
 
 ---
 
@@ -107,58 +156,6 @@ These are some of the technologies and tools that I work with:
 </p>
 
 ---
-<p align="center">
-
-  <a title="Portfolio" href="https://atulchourasia.github.io/MyPortfolio/">
-    <img src="assets/Group 1.png" width="50" height="50" />
-  </a>
-  
-  <a title="DEV.to" href="https://dev.to/atulchourasia">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Medium" href="https://medium.com/@atulChourasia">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Medium-512.png" width="45" height="45"  />
-  </a>
- 
-  <a title="LinkedIn" href="https://www.linkedin.com/in/atul-chourasia-13999417a/">
-    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Email" href="mailto:atul2002chourasia.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Instagram" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
-    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Twitter" href="https://twitter.com/imshravankb">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/AtulChourasia" target="_blank">
-    <img src="https://img.shields.io/github/followers/AtulChourasia?label=Follow%20Me&style=social"/>
-  </a>
-
-  <a href="https://twitter.com/AtulChourasia10" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AtulChourasia10?style=social"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/atul-chourasia-13999417a/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/Atul-Chourasia"/>
-  </a>
-</p>
-
-<p align="center"> <img src="https://gpvc.arturio.dev/AtulChourasia" alt="profile-views"> </p>
-
-<br>
----
-
 
 #### : My Github Stats
 <p align="center">
