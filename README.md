@@ -15,12 +15,12 @@
 <br>
 
 - 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning everything 🤣 & I'm in 2nd year of B.tech.
+- 🌱 I’m currently full Stack WebDev using MERN stack & I'm in 3rd year of B.tech.
 - 👯 I’m looking for Internship and Startups to work with!
-- 🥅 2021 Goals: Contribute to Open Source projects & grab an internship.
+- 🥅 2022 Goals: Contribute to Open Source projects & grab an internship.
 - ⚡ Fun fact: Brain is forever a nerd
 - 📫 How to reach me: atul2002chourasia@gmail.com
-- 🏌️‍ Recent Activity: Coding in Codechef 2 star coder.
+- 🏌️‍ Recent Activity: finished internship with Sparks foundation.
 
 <br>
 
@@ -34,10 +34,7 @@
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
   
-  <a title="Medium" href="https://medium.com/@atulChourasia">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Medium-512.png" width="45" height="45"  />
-  </a>
- 
+   
   <a title="LinkedIn" href="https://www.linkedin.com/in/atul-chourasia-13999417a/">
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="50" height="50" />
   </a>
@@ -168,13 +165,7 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
----
 
-#### : My Thoughts
-
-<p align="center">
-  <img src="assets/Group 7.png" alt="my-personal-project"/>
-</p>
 
 ---
 
